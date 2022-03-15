@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/RTS Engine/Maps/DemoMap/Scene/DemoMap.unity
-  isLoaded: 1
-  isActive: 1
