@@ -1031,11 +1031,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c1e885e8e7860a4f8cceb9aac61c68c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  code: builder_component
+  isActive: 1
   tabID:
     x: 1
     y: 0
-  code: builder_component
-  isActive: 1
   priority: 0
   requireIdleEntity: 1
   targetFinderData:
@@ -1299,11 +1299,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b611935c044ac3479865dddaa61c62b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  code: collector_component
+  isActive: 1
   tabID:
     x: 1
     y: 1
-  code: collector_component
-  isActive: 1
   priority: 5
   requireIdleEntity: 1
   targetFinderData:
@@ -1347,7 +1347,7 @@ MonoBehaviour:
       items:
       - {fileID: 22100000, guid: c80701de95efabe44b42a6f406ce4107, type: 2}
     enableObject:
-      status: 3
+      status: 0
       obj: {fileID: 0}
       indexKey: -1
       entity: {fileID: 0}
@@ -1439,11 +1439,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 160a6844ec79b1a46bd1ada800ddf31c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  code: dropoff_source_component
+  isActive: 1
   tabID:
     x: 0
     y: 1
-  code: dropoff_source_component
-  isActive: 1
   priority: 2
   requireIdleEntity: 0
   targetFinderData:
@@ -1653,11 +1653,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5753921ccbe21134dad27bb458d7cfb5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  code: movement_component
+  isActive: 1
   tabID:
     x: 1
     y: 0
-  code: movement_component
-  isActive: 1
   priority: -1
   requireIdleEntity: 1
   targetFinderData:

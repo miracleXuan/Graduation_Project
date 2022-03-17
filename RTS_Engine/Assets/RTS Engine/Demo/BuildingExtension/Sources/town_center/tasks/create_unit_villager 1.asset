@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: abf428716af4f8f438cb34c5c761450b, type: 3}
-  m_Name: create_unit_villager
+  m_Name: create_unit_villager 1
   m_EditorClassIdentifier: 
   data:
     code: create_unit_villager
